@@ -1,4 +1,0 @@
-note: Dashboard created using Google Colab, url can change.
-
-URL : https://beige-rabbits-think.loca.lt
-External URL : 35.194.202.28:8501
